@@ -11,6 +11,4 @@ Much of my background and experience can be classified as complex systems integr
 
 [Twitter @mikewilks](https://twitter.com/mikewilks)
 
-[Blog](https://www.mikewilks.com/blog)
-
 [IBM Profile](https://ibm.biz/mikewilks)
