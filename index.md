@@ -11,7 +11,7 @@ Much of my background and experience can be classified as complex systems integr
 
 [Twitter @mikewilks](https://twitter.com/mikewilks)
 
-mikewilks@mastodon.social
+@mikewilks@mastodon.social
 
 [Blog](https://www.mikewilks.com/blog)
 
