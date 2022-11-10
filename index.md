@@ -7,9 +7,11 @@ I would describe myself as a technical generalist with broad skills across a wid
 
 Much of my background and experience can be classified as complex systems integration having worked as Chief Architect of multiple large-scale complex systems in both sales and delivery.
 
-### Links
+### Links / Socials
 
 [Twitter @mikewilks](https://twitter.com/mikewilks)
+
+mikewilks@mastodon.social
 
 [Blog](https://www.mikewilks.com/blog)
 
